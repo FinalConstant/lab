@@ -16,7 +16,6 @@ import javax.swing.JLabel;
  * This view provides an user interface for setting
  * nick name.
  * 
- * @author Andrij 
  */
 public class StartView extends JFrame {
 	/**

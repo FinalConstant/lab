@@ -1,4 +1,4 @@
-package ua.edu.sumdu.j2se.group5.messenger.client.view;
+﻿package ua.edu.sumdu.j2se.group5.messenger.client.view;
 
 import java.awt.Dimension;
 import java.awt.event.MouseAdapter;
@@ -24,8 +24,6 @@ import javax.swing.JTextArea;
  * to read messages from other users,
  * to see list of users connected to server.
  * 
- * @author Андрій
- *
  */
 public class MainView extends JFrame implements Observer {
 	
